@@ -10,7 +10,7 @@ import Contactt from "./Page/Contactt";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/Listrace",
       element: <Home />,
     },
     {

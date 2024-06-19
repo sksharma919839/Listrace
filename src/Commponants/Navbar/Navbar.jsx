@@ -7,7 +7,7 @@ function Navbar() {
   const navItem = [
     {
       id: 0,
-      link: "/",
+      link: "/Listrace",
       name: "HOME",
     },
     {
@@ -44,7 +44,7 @@ function Navbar() {
     <>
       <div className="h-[86px] px-[40px] w-[100%] flex items-center justify-between">
         <div>
-          <Link to="/" className="py-34px">
+          <Link to="/Listrace" className="py-34px">
             <span className="text-[20px] text-[#1b1e20] font-extrabold">
               List
             </span>
@@ -90,7 +90,7 @@ function Navbar() {
           }
         >
           <div className="pt-[20px] pl-[20px]">
-            <Link to="/" className="py-34px">
+            <Link to="/Listrace" className="py-34px">
               <span className="text-[20px] text-[#1b1e20] font-extrabold">
                 List
               </span>

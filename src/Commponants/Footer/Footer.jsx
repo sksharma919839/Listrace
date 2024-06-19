@@ -59,7 +59,7 @@ function Footer() {
       <div>
         <div className="flex items-center justify-center">
           <div className="md:flex items-center justify-between py-[45px] w-[90%] border-b ">
-            <Link to="/">
+            <Link to="/Listrace">
               <span className="text-[20px] text-[#1b1e20] font-extrabold">
                 List
               </span>

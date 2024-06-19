@@ -47,7 +47,7 @@ function Header() {
           </li>
           <li>
             <Link
-              to="/"
+              to="/Listrace"
               className="text-[12px] text-[#a7b0ba] sm:px-[18px] py-[10px]"
             >
               Sign In
@@ -55,7 +55,7 @@ function Header() {
           </li>
           <li>
             <Link
-              to="/"
+              to="/Listrace"
               className="text-[12px] text-[#a7b0ba] sm:px-[18px] px-[5px] py-[10px]"
             >
               Register
