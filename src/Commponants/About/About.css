@@ -1,0 +1,13 @@
+.about-box {
+  box-shadow: 3px 7px 23px 4px rgba(0, 0, 0, 0.75);
+  transition: all 0.6s ease-in-out;
+  cursor: pointer;
+}
+.about-box:hover {
+  background-color: #ff545a;
+  div,
+  .about-link,
+  p {
+    color: #ffffff;
+  }
+}

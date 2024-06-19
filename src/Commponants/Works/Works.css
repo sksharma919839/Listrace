@@ -1,0 +1,23 @@
+.work-box {
+    box-shadow: 1px 1px 18px 9px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+    transition: all 1s;
+  }
+  
+  .work-box:hover {
+    background-color: #ff545a;
+    .work-icon {
+      color: #ff545a;
+    }
+    .work-h2 {
+      color: #ffffff;
+    }
+    .work-p {
+      color: #ffffff;
+    }
+    .work-btn {
+      background-color: #ffffff;
+      color: #ff545a;
+    }
+  }
+  

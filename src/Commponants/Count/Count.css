@@ -1,0 +1,8 @@
+.count-bg {
+  background-image: url(../../Image/counter-banner.jpg);
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

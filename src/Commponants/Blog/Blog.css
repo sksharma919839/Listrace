@@ -1,0 +1,11 @@
+.blog-box {
+  box-shadow: -1px 0px 5px 4px rgba(0, 0, 0, 0.75);
+  cursor: pointer;
+  transition: all 0.6s ease-in-out;
+}
+.blog-box:hover {
+  box-shadow: -1px 0px 28px 8px rgba(0, 0, 0, 0.75);
+  h5 {
+    color: #ff545a;
+  }
+}

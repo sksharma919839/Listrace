@@ -1,0 +1,8 @@
+.contact-box:hover {
+  box-shadow: 0px 0px 27px 20px rgba(0, 0, 0, 0.75);
+}
+.contact-box {
+  transition: all 0.7s ease-in-out;
+  cursor: pointer;
+  box-shadow: 0px 0px 6px 6px rgba(0, 0, 0, 0.75);
+}
